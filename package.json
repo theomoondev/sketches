@@ -11,6 +11,10 @@
   "license": "ISC",
   "dependencies": {
     "canvas-sketch": "^0.1.0",
-    "three": "^0.98.0"
+    "three": "^0.147.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.15.4",
+    "three": "^0.147.0"
   }
 }
